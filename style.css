@@ -1,0 +1,27 @@
+h1{
+    color: rgb(9, 9, 148);
+    text-align: center;
+}
+
+body{
+    background-color: rgb(106, 106, 156);
+    align-content: center;
+}
+#j, label{
+    width: 50%;
+    padding: 1%;
+    border-radius: 10px/10px;
+    position: relative;
+    left: 350px;
+    
+    
+}
+#k{
+    width: 20%;
+    padding: 1%;
+    border-radius: 10px/10px;
+    position: relative;
+    left: 550px;
+    background: rgb(99, 214, 99);
+
+}
